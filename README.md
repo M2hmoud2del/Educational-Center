@@ -1,9 +1,109 @@
-# Educational-Center
-<p>The Educational Center is a comprehensive platform designed to provide a range of educational services and resources to students of all ages. Our center focuses on delivering high-quality educational programs that cater to various academic needs and interests.</p>
-<h3>Diverse Course Offerings:</h3> We offer a variety of courses in subjects such as languages, sciences, mathematics, and humanities. Each course is tailored to meet the educational standards and needs of the students.
-<h3>Experienced Instructors:</h3> Our team of qualified and experienced instructors are dedicated to delivering engaging and effective instruction, ensuring a high-quality learning experience.
-<h3>Student Records Management:</h3> The center includes a robust system for managing student records, including personal information, course enrollments, and academic performance.
-<h3>Booking and Scheduling:</h3> Students can book and schedule classes easily through our user-friendly interface. The system supports booking for individual subjects or comprehensive programs.
-<h3>Profit Tracking:</h3> The center tracks and reports on financial aspects, including tuition fees and profit margins, to ensure efficient financial management.
-<h3>Secure Access:</h3> A secure login system protects sensitive data, including student records and financial information, ensuring privacy and security for all users.
-<p>The Educational Center aims to foster a conducive learning environment where students can achieve their educational goals and excel in their academic pursuits. Whether you're looking to enhance your skills, prepare for exams, or explore new subjects, our center provides the resources and support needed for success.</p>
+# Educational Center System
+
+## Overview
+
+The Educational Center System is a C++ application designed for managing various aspects of an educational center. It operates through a terminal interface, providing functionalities for managing students, courses, instructors, class schedules, and generating reports.
+
+## Features
+
+- **Student Management**:
+  - Add new students
+  - View student details
+  - Update student information
+  - Remove students
+
+- **Course Management**:
+  - Add new courses
+  - View course details
+  - Update course information
+  - Remove courses
+
+- **Instructor Management**:
+  - Add new instructors
+  - View instructor details
+  - Update instructor information
+  - Remove instructors
+
+- **Class Scheduling**:
+  - Schedule classes
+  - View class schedules
+  - Update class timings
+  - Cancel classes
+
+- **Reports**:
+  - Generate student reports
+  - Generate course reports
+  - Generate instructor reports
+
+## Project Structure
+
+The project is organized as follows:
+
+```
+Educational-Center/
+├── src.cpp                  # Main source code file
+├── students.txt             # File containing student data
+├── tempstudents.txt         # Temporary file for student data
+├── password.txt             # File containing password information
+├── project.c++.pdf          # Project documentation
+├── run.exe                  # Executable file for running the application
+└── README.md                # This README file
+```
+
+## Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/M2hmoud2del/Educational-Center
+   ```
+
+2. **Navigate to the project directory:**
+   ```sh
+   cd Educational-Center
+   ```
+
+3. **Build the project:**
+   Since the project is already compiled into `run.exe`, you can skip this step. If you need to compile the source code, use a C++ compiler:
+   ```sh
+   g++ src.cpp -o run.exe
+   ```
+
+4. **Run the application:**
+   ```sh
+   ./run.exe
+   ```
+
+## Usage
+
+- **Student Management**:
+  - Use the terminal commands to add, view, update, or remove student information.
+
+- **Course Management**:
+  - Manage courses through terminal commands, including adding, viewing, updating, and removing courses.
+
+- **Instructor Management**:
+  - Handle instructor details using terminal commands.
+
+- **Class Scheduling**:
+  - Schedule and manage class timings via terminal commands.
+
+- **Reports**:
+  - Generate and view various reports for students, courses, and instructors through terminal commands.
+
+## Files
+
+- **`students.txt`**: Contains student data.
+- **`tempstudents.txt`**: Temporary file for student data operations.
+- **`password.txt`**: Stores password information for the application.
+- **`project.c++.pdf`**: Contains documentation for the project.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## Contact
+
+For any inquiries or issues, please contact:
+
+- **Email**: [capoking3@gmail.com](mailto:capoking3@gmail.com)
+- **GitHub**: [https://github.com/M2hmoud2del](https://github.com/M2hmoud2del)
