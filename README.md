@@ -1,7 +1,5 @@
 # Educational-Center
 <p>The Educational Center is a comprehensive platform designed to provide a range of educational services and resources to students of all ages. Our center focuses on delivering high-quality educational programs that cater to various academic needs and interests.</p>
-
-Key Features:
 <h3>Diverse Course Offerings:</h3> We offer a variety of courses in subjects such as languages, sciences, mathematics, and humanities. Each course is tailored to meet the educational standards and needs of the students.
 <h3>Experienced Instructors:</h3> Our team of qualified and experienced instructors are dedicated to delivering engaging and effective instruction, ensuring a high-quality learning experience.
 <h3>Student Records Management:</h3> The center includes a robust system for managing student records, including personal information, course enrollments, and academic performance.
