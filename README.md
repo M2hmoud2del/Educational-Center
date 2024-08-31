@@ -107,3 +107,5 @@ For any inquiries or issues, please contact:
 
 - **Email**: [capoking3@gmail.com](mailto:capoking3@gmail.com)
 - **GitHub**: [https://github.com/M2hmoud2del](https://github.com/M2hmoud2del)
+- **LinkedIn**: [https://www.linkedin.com/in/mahmoud-adel-975026127/](https://www.linkedin.com/in/mahmoud-adel-975026127/)
+
