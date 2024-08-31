@@ -1,0 +1,7 @@
+ID            NAME                phone       Arabic   English   Physics    Math    Chemistry
+---------------------------------------------------------------------------------------------------------------       
+8913        Ahmed Adel          01123451341    Yes       Yes       Yes       Yes       Yes       
+9112        Mahmoud Sami Salah  0112314410     Yes       Yes       Yes       No        No        
+9213        Khaled Ramadan      0131413121     Yes       No        No        No        No        
+7944       ???? ????           0130130101     Yes       No        No        No        No        
+7159      ahmed sami          012012115      No        Yes       No        No        No        
